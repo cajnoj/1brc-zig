@@ -1,7 +1,7 @@
 # A Zig 1BRC Optimized Implementation
 
 ## Benchmark
-Tested on a AWS EC2 c7a.8xlarge instance (32 AMD EPYC 9R14 cores) runngni Amazon Linux.
+Tested on a AWS EC2 c7a.8xlarge instance (32 AMD EPYC 9R14 cores) running Amazon Linux.
 
 ```
 $ uname -a
